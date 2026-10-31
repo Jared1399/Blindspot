@@ -1,0 +1,32 @@
+# dependencies
+node_modules/
+
+# expo / react native
+.expo/
+dist/
+web-build/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# python
+.venv/
+__pycache__/
+*.pyc
+
+# env / secrets
+.env
+.env.*
+
+# os / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# logs / output
+*.log
+perlin_fibonacci.png
